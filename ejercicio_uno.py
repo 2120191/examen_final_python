@@ -5,7 +5,6 @@ entrada: [4,7,10,4,1,0]
 salida : {menor:0,mayor:10}
 """
 
-
 def encontrar_menor_mayor(lista):
     menor = min(lista)
     mayor = max(lista)
